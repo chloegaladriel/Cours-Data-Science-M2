@@ -1,0 +1,4 @@
+city,temperature,windspeed,weather_code,timestamp
+Paris,26.0,7.7,0,2025-07-02 08:04:22.720651
+London,19.6,4.3,80,2025-07-02 08:04:22.720652
+Berlin,27.8,7.1,0,2025-07-02 08:04:22.720652
